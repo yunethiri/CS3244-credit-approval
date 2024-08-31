@@ -8,6 +8,8 @@ Using credit score to determine approval for applications are a common risk cont
 
 It is important for financial institutions like banks to be able to approve applicants who will use the credit cards responsibly and are capable of repaying any loans. 
 
+More information about the project is found in CS3244_Project.pdf.
+
 ## Problem Statement
 The goal of this project is to identify the key features that influence credit score records for credit card approval in financial institutions.
 
